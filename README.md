@@ -1,5 +1,6 @@
 # Olá Mundo !
 
+
  Primeiro repositorio do curso de git e github
 ***
 **Primeiro repositório** usando "*Github Desktop*".
@@ -50,3 +51,8 @@ ou
     | :---: | :---: | :---: |
 
 **Emoji:** `:{shortcode}`  
+
+### Símbolos LaTeX
+
+    $${Sintaxe}$$  
+    Cheatsheet: https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index    
