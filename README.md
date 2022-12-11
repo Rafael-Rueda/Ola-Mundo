@@ -14,7 +14,7 @@
 **Itálico:** `*`  
 **Títulos:** `#### {texto}`  
 **Citações (Blockquote):** `> {texto}`  
-**Código:** quatro espaços (1 tab) ou `` `  
+**Código:** quatro espaços (1 tab) ou `
 
 ### Listas
 
