@@ -44,7 +44,9 @@
     ---|---|---  
     {data1} | {data2} | {data3}  
 
-**Emoji:** `:{shortcode}`  
+ou
 
-| a | b | c
-| :---: | :---: | :---: |
+    {data1} | {data2} | {data3}
+    | :---: | :---: | :---: |
+
+**Emoji:** `:{shortcode}`  
