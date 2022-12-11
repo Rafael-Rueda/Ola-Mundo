@@ -20,7 +20,7 @@
 
 **Lista ordenada:** ``{número}.{texto}``  
 **Lista não-ordenada:** ``* {texto} ou - {texto}``  
----Aceita espaço para identar listas.  
+---Aceita espaço para indentar listas.  
 **Lista de tarefas:** ``- [] {texto}``  
 ---Para marcar a tarefa, colocar x nos colchetes  
 
