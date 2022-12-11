@@ -1,7 +1,5 @@
 <div style="background-color: blue;">
-
-# Olá Mundo !
-
+Olá Mundo !
 </div>
 
  Primeiro repositorio do curso de git e github
