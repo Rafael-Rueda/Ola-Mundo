@@ -10,36 +10,39 @@
 
 ### Texto
 
-**Negrito:** ``** ou __``
-**Itálico:** `*`
-**Títulos:** `#### {texto}`
-**Citações (Blockquote):** `> {texto}`
-**Código:** `````` ou ` ```
+**Negrito:** ``** ou __``  
+**Itálico:** `*`  
+**Títulos:** `#### {texto}`  
+**Citações (Blockquote):** `> {texto}`  
+**Código:** `````` ou ` ```  
 
 ### Listas
 
-**Lista ordenada:** ``{número}.{texto}``
-**Lista não-ordenada:** ``* {texto} ou - {texto}``
----Aceita espaço para identar listas.
-**Lista de tarefas:** ``- [] {texto}``
----Para marcar a tarefa, colocar x nos colchetes
+**Lista ordenada:** ``{número}.{texto}``  
+**Lista não-ordenada:** ``* {texto} ou - {texto}``  
+---Aceita espaço para identar listas.  
+**Lista de tarefas:** ``- [] {texto}``  
+---Para marcar a tarefa, colocar x nos colchetes  
 
 ### Imagens
 
-**Imagem:**
-    ``![texto](URL)``
+**Imagem:**  
+
+    ![texto](URL)
 
 ### Links
 
-**Link:**
-    `[texto do link](URL)`
+**Link:**  
+
+    [texto do link](URL)
 
 ### Tabelas
 
-**Tabela:** 
-    {título1} | {título2} | {título3}
-    ---|---|---
-    {data1} | {data2} | {data3}
+**Tabela:**  
 
-**Emoji:** `:{shortcode}`
+    {título1} | {título2} | {título3}  
+    ---|---|---  
+    {data1} | {data2} | {data3}  
+
+**Emoji:** `:{shortcode}`  
 
