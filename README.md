@@ -1,4 +1,4 @@
-<h1 background= "https://media.geeksforgeeks.org/wp-content/uploads/rk.png" align= "center">Olá Mundo !</h1>
+<h1 style="text-align: center;">Olá Mundo !</h1>
 
  Primeiro repositorio do curso de git e github
 ***
