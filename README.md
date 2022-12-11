@@ -46,6 +46,6 @@
 
 **Emoji:** `:{shortcode}`  
 
-d | e | f
+ | | 
 ---|---|---
 | a | b | c
