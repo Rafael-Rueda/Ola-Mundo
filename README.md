@@ -1,6 +1,4 @@
-<div background= "blue">
-Olá Mundo !
-</div>
+<h1 background= "blue" align= "center">Olá Mundo !</h1>
 
  Primeiro repositorio do curso de git e github
 ***
