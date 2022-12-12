@@ -57,4 +57,4 @@ ou
     $${Sintaxe}$$  
     Cheatsheet: https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index
 
-## Obrigado !!!
+## Obrigado !!! Agradeço !
